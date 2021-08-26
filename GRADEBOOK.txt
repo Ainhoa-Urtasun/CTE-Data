@@ -1,4 +1,4 @@
-Commits	Comprehension	Understand	Application	Analysis	Synthesis	Evaluation
+Commits	Knowledge	Comprehension	Application	Analysis	Synthesis	Evaluation
 24	5	4.3	247	8	7	1
 24	4.5	3.8	247	8	7	1
 24	3.5	4.5	247	8	7	0
